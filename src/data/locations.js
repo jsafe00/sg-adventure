@@ -63,7 +63,7 @@ export const locations = [
     church: '7',
     placename: 'Spacepod@Lavender	',
     info: 'https://drive.google.com/drive/folders/1bJsWHzP6MB0v6F58iilhZ3NpIkc3-dNk?usp=share_link',
-    image: 'https://lh3.googleusercontent.com/WvyIW86eBrvlf5UtCBb_ns_Gftr9CD_HHzFTXkK1TJGIolIem7Iu9WX9RghCwd7yEo_7-d5fo8HzuwVrV2B5B5XQdGRWvFMxEtGJdlLYodngoJ-4iLrHRT8sBCTcFkb4rJwTGO1eOmY=w2400',
+    image: 'https://lh3.googleusercontent.com/5qWV_BYnaQqKNjrh-kKcBseeLL0wifJacwy9erZfcek46KP5NxEX27ckToP1QUvfSHxjXZgkqDBIp06R2zeUqnSq4PxXkE6kvAySqiOWxUGTgXVHaMa7IAk3ZzNRMI944Pfwb8n3LxA=w2400',
     location: {
       lat: 1.3107787230693495, 
       lng: 103.86185228469483
@@ -235,6 +235,66 @@ export const locations = [
     location: {
       lat: 1.2233218037154718, 
       lng: 103.86112938078104
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '22',
+    placename: 'Badminton @ Bishan',
+    info: 'https://drive.google.com/drive/folders/1HrQWAtIMDAwifzrdqQACzFtV7Q9-S2zE?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/sPo9J96IJ1pENk9vGikZWLR3IWg-1ODbq5altuHW0dr9nIKYYQiqnU1WUMueudsbtT2KDHdILY41VybzTMtxauS6waDXPw1l27zX8WVzQw0vbLTtU51hYArbmL_gUFeYu2RZgngW1Oo=w2400',
+    location: {
+      lat: 1.3471438968803455, 
+      lng: 103.85175694245777
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '23',
+    placename: 'Malaysia Boleh @ AMK',
+    info: 'https://drive.google.com/drive/folders/1JlR4zUfHP8W8xrnmoltAmKzbK46UJ4Lq?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/kGVJkxlzZ-IMHMxDCdeZzehLtwS7tNhOKqHiDeHkw3zBQkoXb7M0fCfqUvocGO341B3h8NIGMnrfrFELb-CzfZEVJ-O2ylpkj789co2tIn5Pvl-3y_5Xi_4dlRaQ_JDyZ_IboYypEFU=w2400',
+    location: {
+      lat: 1.3696438167918705, 
+      lng: 103.84901157129323
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '24',
+    placename: 'Kallang Wave',
+    info: 'https://drive.google.com/drive/folders/1J9xfQsIeAPXVxZj5CD-MufiNh7fBdB_c?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/qrht1dezGm4L2IQyBl1j8-L5U-b8i8XqqVhsHmfhwjs7F6qXgXOIw9rDuHwrhvj259zDpDUCPNxsUOKoDnDLxDsN3YTo7wjvvSedHaii3iMYgkLZQBFnqih3apOexFbw5ClMEiTesnk=w2400',
+    location: {
+      lat: 1.3034709977568106, 
+      lng: 103.8728499424046
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '25',
+    placename: 'SG Botanic Gardens',
+    info: 'https://drive.google.com/drive/folders/1KCMEfOh9nPtUdiLkAWwnCO09MxJJfGq7?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/XQrNsUCmRvGCOujqzqgfBM61r0khDhxpUEOulWbLS3cto1L9O9yVq6D2vhLQGt0xYksePMqYOOLzb62VvRseTdj7I4QI3H3nTQIcZdIuQci0eNYE2m8-voJVeBpHUQ6COk_TsLasAc8=w2400',
+    location: {
+      lat: 1.31987527529746, 
+      lng: 103.814294615576
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '26',
+    placename: 'Sentosa',
+    info: 'https://drive.google.com/drive/folders/1MP4nxwJIaA4lMU2pgFHLuCUfglebJFhV?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/40hXZ-8724uTZ34TN0XcsdhZ5H0lDMC6buqfxUIRKKxmSkmFoZmz6bHyGU7qfrtbu_61ULssyQpMfdrPVnX-MXM7QqI-HluiAxLb0fKEUdcwdwZOPwE1EX-4HJ0rzG5vyOHACuOLmW0=w2400',
+    location: {
+      lat: 1.250337083970642, 
+      lng: 103.83047389619998
     },
     todo: [
     ]
