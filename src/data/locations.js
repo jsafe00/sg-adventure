@@ -299,5 +299,28 @@ export const locations = [
     todo: [
     ]
   },
-  
+  {
+    church: '27',
+    placename: 'Pulau Ubin',
+    info: 'https://drive.google.com/drive/folders/1TtkxCcW7LNJ925Jw5lZVfTnzyNQria54?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/PsE3ry2cL7Kz9PbGWejcnp1YntKnmteDOMrsWOpElkpfjqG-nJ2y5Hc7qOjAOA_7LBDp3WbC1XNh-0EMfIAq_FhJ4s-YIOJUMmO0rZNTVyEEl9GvL4jW4fA9-4mPKxWFx0gg6KjSHUE=w2400',
+    location: {
+      lat: 1.4130309392866474, 
+      lng: 103.95765843918012 
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '28',
+    placename: 'Coney Island',
+    info: 'https://drive.google.com/drive/folders/1XMcJVe3fwHWVDSxiaRwiLPsT0WuGDE9r?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/9kI9dwzvV-TB9Vo3nibKQCc_d6Kbsf25WsFuKz1FVcUbmtpAnz84aoGmo7IyqEunuhiT4Wh6AHD_0VIWpzSmT6-qR7WIns-3KfgnSmmAMcyhbt7lu_4keSeJRzHSHrV6Q1ncuxyJzd0=w2400',
+    location: {
+      lat: 1.4104131849050667, 
+      lng: 103.92168881168772 
+    },
+    todo: [
+    ]
+  },
 ];
