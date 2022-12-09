@@ -1,6 +1,8 @@
-# SG Adventure powered by Gatsby Leaflet - https://react-leaflet.js.org/
+# SG Safventure powered by Gatsby Leaflet - https://react-leaflet.js.org/
 
-### still in progress 
+#### clone from https://github.com/jsafe00/visita-iglesia
+
+### always in progress 
 
 https://sg-adventure.netlify.app
 

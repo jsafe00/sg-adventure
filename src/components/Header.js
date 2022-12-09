@@ -8,7 +8,7 @@ const Header = () => {
     <header>
       <Container type="content">
         <h1>
-          SG Adventure 2022
+          SG Safventure 2022
         </h1>
         <p>
           Best Viewed on Desktop
