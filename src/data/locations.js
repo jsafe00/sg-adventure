@@ -323,4 +323,28 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '29',
+    placename: 'Pasir Ris',
+    info: 'https://drive.google.com/drive/folders/1etZUTULRvOIorEx19gD5Bmui0WGCE12N?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/pU2EFourP60YYlmW4tIAKvorPShvTfFrn3k2oKM9D4l4rKL__sjCargCFps8ZVGBFI_47EathBrXSIJ7W9FOLq6afarVS714GD17DRCcK0n12gBEC_iLUuwveAY_JT3mvggSZv6pMUE=w2400',
+    location: {
+      lat: 1.3860295899857387, 
+      lng: 103.94546977017734
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '30',
+    placename: 'Bishan - Ang Mo Kio Park',
+    info: 'https://drive.google.com/drive/folders/1gqpwZs-7alEPzNQiqkEw7o06PcunqvhD?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/EJ8QOxwk-4Xx9SNKALtqvUGuKGe81vE8UGqbusO_uawwQmhVdTCr0SPyj0-tv89Scq6oWfTKbX3TN1F4TkFynLSv87h_LnRGhcXzVsh8YrMrb12CQGyCXJIXsCwReiRTQVxivhL7bzg=w2400',
+    location: {
+      lat: 1.3636876691277486, 
+      lng: 103.84355067126467
+    },
+    todo: [
+    ]
+  },
 ];
