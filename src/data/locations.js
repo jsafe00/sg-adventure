@@ -347,4 +347,28 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '31',
+    placename: 'Bedok Reservoir',
+    info: 'https://drive.google.com/drive/folders/1nqxiJmGdff5sq0cEAXuYiMLB-Juc13--?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/GntGlCfLjvyDp6y7lni2oZrOPfn4_lsbSUPBmdfdGwU_nzA6e7jCIpxkgcKKQ59uVlYuA9TRHkHeqUd0_N9-T5iUtp00XMDTUkDFjqu5hr9oKWiSTgDsejtJ9R7Ia2TpVZf1JXTzQ_w=w2400',
+    location: { 
+      lat: 1.3366857188996226, 
+      lng: 103.93297821544877
+    },
+    todo: [
+    ]
+  },
+  {
+    church: '32',
+    placename: 'Toa Payoh ActiveSG Gym',
+    info: 'https://drive.google.com/drive/folders/1scAWGeat4MswGtwdaswv69LEwXarz6Jr?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/EFjGmZFUwORSPZsvi1V7T6dPxhnUj-knUz6e0PkXTfLL-Z0opAXwrGYPL4QgsHsMtRMMSZ8VaXyWOZmftOoUT4JFI2dxHMt8cQcVn2jdPy_PHy0cTh-cK6G5z57kD9fXoS2RM5zXaHU=w2400',
+    location: {
+      lat: 1.3307809989173551, 
+      lng: 103.85069336917913 
+    },
+    todo: [
+    ]
+  },
 ];
