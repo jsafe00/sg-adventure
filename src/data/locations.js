@@ -371,4 +371,16 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '33',
+    placename: 'Pasir Ris Town Park',
+    info: 'https://drive.google.com/drive/folders/11PtNa9TCQLGL-U_lBGJ9oottMnO1ft0G?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/HFERC8Mkk5C77hjW83V6sLiM_Bpa4IAzP8L4ywbvgIvaVJTExljbM-a-EHjTReAQqA3h9pb89LScWdjLm17lPnAbRD_70M9pFN0llp5VgyDtvlPHKmRzsjsrBe53_8h4MAe9zdkUGfA=w2400',
+    location: {
+      lat: 1.3725509237393776, 
+      lng: 103.951753486482 
+    },
+    todo: [
+    ]
+  },
 ];
