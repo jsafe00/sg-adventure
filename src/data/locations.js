@@ -383,4 +383,16 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '34',
+    placename: 'Toa Payoh Town Park',
+    info: 'https://drive.google.com/drive/folders/1EvhEVdYmVTMTybCZB8RSFydhRR6vtaKX?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/XO_ccqwd8aF0lB09rBfCcmQdH1IE3H4P-pHChGpsnU4pfNIykekI1mKFceYAZhla_1h-rv7LRwpHKGM2HoRZI2biSsQ1HNDNedycLU2tib2JieO-VtyDzwRkJnv8NR-1nOqutUBjPSY=w2400',
+    location: {
+      lat: 1.330822853692681, 
+      lng: 103.84731631756085
+    },
+    todo: [
+    ]
+  },
 ];
