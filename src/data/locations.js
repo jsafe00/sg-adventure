@@ -395,4 +395,16 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '35',
+    placename: 'Church of our Lady Queen of Peace',
+    info: 'https://drive.google.com/drive/folders/1Ht8exVmTMnMbJ4HUo_72gL_JwQLl16L0?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/5D7lRzM3i6iW_79gQ8dQYmwTiOn5E9hhaHrjIg8OVA5hmAOA0rwsUMVEw-BePTFqIt89vM73nb9rGrw8kHtoWNC2IjoxmtK3zVwT_utbRF7xvmhW2cl3ge0didLNjL51BtBXhXxClH0=w2400',
+    location: {
+      lat: 1.312488697180345, 
+      lng: 103.89366818215227
+    },
+    todo: [
+    ]
+  },
 ];
