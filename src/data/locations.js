@@ -407,4 +407,16 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '36',
+    placename: 'Mount Faber',
+    info: 'https://drive.google.com/drive/folders/1MO6K_vijnfvU_fmy05MITEwsHSin5R94?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/XNg2JW8H51e5xnkIgmiQmdCPtHHjLFp9EtckxdmhwVrqCztXir8rJj-tIL9TcYKagTA79Bor4LOH4_XXey0Tm_A0BnN49WikYkzh13MP8FvUQ8WNW9Minjyo4udGKhqJ2Ya-79OYvJA=w2400',
+    location: {
+      lat: 1.2721316271155558, 
+      lng: 103.81912666912957
+    },
+    todo: [
+    ]
+  },
 ];
