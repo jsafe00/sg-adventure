@@ -419,4 +419,16 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '37',
+    placename: 'MacRitchie Reservoir',
+    info: 'https://drive.google.com/drive/folders/1QjEIG1tkooA50ZpP_RcCabXfYg_0PUJo?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/KRJIhWnwINXjAbVmtlrCwPwr5pZX-DcLRB4c-7aZ6p3Q3NZebywOXvZOJ8kDn_DZZDPFNzQeSNfKAKkKtV1tnvhmQgGgJX-RK-RmSh1_1EZ5h3Dq1ewAGZBsImNL1Ogu32vfniQU7jo=w2400',
+    location: {
+      lat: 1.3540854465209273, 
+      lng: 103.81959569005231
+    },
+    todo: [
+    ]
+  },
 ];
