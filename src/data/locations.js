@@ -431,4 +431,16 @@ export const locations = [
     todo: [
     ]
   },
+  {
+    church: '38',
+    placename: 'Yishun ActiveSG/Town Centre',
+    info: 'https://drive.google.com/drive/folders/1Wr0_-2NDCe3L1yHv0QPacMbYoxJCTKTi?usp=share_link',
+    image: 'https://lh3.googleusercontent.com/o2V8JVhipg1TMFxEiEs06MQvUhiXkNpwDodNh7ecEq5FEAKWjxam-M2WRgE8B9Ci6pJu7WyqCNge5Viq2Ok2WEp5M4OPer8X9DEZhFcvFABLsyIAbrOAll5nCDOq8C_UtanLjkL8euY=w2400',
+    location: {
+      lat: 1.426600233910861, 
+      lng: 103.83703791559738
+    },
+    todo: [
+    ]
+  },
 ];
